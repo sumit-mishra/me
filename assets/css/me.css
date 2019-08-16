@@ -119,6 +119,7 @@ body.page-template-page-fullsingle-me {
     font-size: 25px;
     font-variant: traditional;
     font-family: monospace;
+    line-height: 40px;
   }
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
