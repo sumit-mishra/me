@@ -115,7 +115,11 @@ body.page-template-page-fullsingle-me {
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
     margin-bottom: 28px;
-    color: #999999; }
+    color: #ffffff;
+    font-size: 25px;
+    font-variant: traditional;
+    font-family: monospace;
+  }
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
         font-size: 32px;
